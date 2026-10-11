@@ -1,0 +1,6 @@
+{
+  "name": "Tirumala Café — Authentic South Indian Flavours",
+  "description": "Experience the culinary heritage of Tirumala Café. Crisp artisan benne dosas, complimentary hot rasam, slow-roasted garlic specialties, and authentic South Indian hospitality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
